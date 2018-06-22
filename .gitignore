@@ -1,0 +1,10 @@
+.idea/
+*.crt
+*.pem
+*.pdf
+*.csv
+*.o
+*.sh
+*.swp
+certcheck
+*/*
